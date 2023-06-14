@@ -1,5 +1,5 @@
-##Faça um programa que carregue um vetor de dez elementos que contenha o nome de pessoas e outro que contenha o peso, encontre qual a pessoa mais gorda e mais magra e 
-##apresente o nome o peso das mesmas. Use dois vetores, um para peso e outro para nome. Não use nenhuma função pronta da linguagem Python.
+# Algoritmo que carrega um vetor de dez elementos que contenha o nome de pessoas e outro que contenha o peso, encontre qual a pessoa mais gorda e mais magra e 
+# apresente o nome o peso das mesmas. Use dois vetores, um para peso e outro para nome. 
 
 vet_nome = []
 vet_peso = []

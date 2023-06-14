@@ -1,5 +1,5 @@
-##Faça um programa que: preencha um vetor com dez números reais
-##Calcule e mostre: a quantidade de números negativos; a soma dos números positivos desse vetor. Não use nenhuma função pronta da linguagem Python
+# Algoritmo que preenche um vetor com dez números reais
+# Calcula e mostra a quantidade de números negativos; a soma dos números positivos desse vetor.
 
 numeros = []
 negativos = 0

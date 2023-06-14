@@ -1,4 +1,4 @@
-##Faça um programa que calcule e apresente a média de idades de uma sala de 35 alunos.
+# Algoritmo que calcula e apresenta a média de idades de uma sala de 35 alunos.
 
 vet_idade = []
 soma_idades = 0

@@ -1,4 +1,4 @@
-##Faça um programa que: leia um vetor de 10 números inteiros e exiba na tela os números positivos.
+# Algoritmo que preenche um vetor de 10 números inteiros e exiba na tela os números positivos.
 
 inteiros = []
 positivos = []

@@ -1,5 +1,5 @@
-##Criar um algoritmo que leia dados para um vetor de 100 elementos inteiros, imprimir o maior, o menor, o percentual de números pares e a média dos elementos do vetor. 
-##Obs.: percentual = quantidade contada * 100 / quantidade total. Não use nenhuma função pronta da linguagem Python.
+# Algoritmo que receba dados para um vetor de 100 elementos inteiros, imprimir o maior, o menor, o percentual de números pares e a média dos elementos do vetor. 
+# Observação: percentual = quantidade contada * 100 / quantidade total.
 
 cem = []
 pares = 0

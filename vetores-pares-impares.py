@@ -1,4 +1,4 @@
-##Faça um programa que: receba dez números inteiros e armazene-os em um vetor e classifique os números em dois vetores, um com números pares e o outra com os ímpares.
+# Algoritmo que recebe dez números inteiros e armazene-os em um vetor e classifique os números em dois vetores, um com números pares e o outra com os ímpares.
 
 vet_inteiros = []
 pares = []

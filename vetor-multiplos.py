@@ -1,5 +1,5 @@
-##Faça um programa que: preencha um vetor com sete números inteiros
-##Calcule e mostre: os números múltiplos de 2; os números múltiplos de 3; os números múltiplos de 2 e de 3.
+# Algoritmo que preenche um vetor com sete números inteiros.
+# Calcula e mostra os números múltiplos de 2; os números múltiplos de 3; os números múltiplos de 2 e de 3.
 
 vetor = []
 for i in range(7):

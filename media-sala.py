@@ -1,4 +1,4 @@
-##Faça um programa que carregue um vetor com a média de dez alunos, calcule e mostre a MÉDIA DA SALA e quantos alunos estão acima e abaixo da média da sala.
+# Algoritmo que carrega um vetor com a média de dez alunos, calcula e mostra a MÉDIA DA SALA e quantos alunos estão acima e abaixo da média da sala.
 
 vet_nota = []
 soma_nota = 0

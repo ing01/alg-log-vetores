@@ -1,5 +1,4 @@
-##Faça um programa que carregue um vetor de oito elementos numéricos inteiros, calcule e mostre os números pares e suas respectivas índices/posições. 
-##Não use nenhuma função pronta da linguagem Python.
+# Algoritmo que carrega um vetor de oito elementos numéricos inteiros, calcule e mostre os números pares e suas respectivas índices/posições. 
 
 vet_elementos = []
 numeros_pares = []

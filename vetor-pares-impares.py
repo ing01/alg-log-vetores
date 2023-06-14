@@ -1,5 +1,5 @@
-## Faça um programa que: preencha um vetor com seis elementos numéricos inteiros.
-##Calcule e mostre: todos os números pares; a quantidade de números pares; todos os números ímpares; a quantidade de números ímpares
+# Algoritmo que preenche um vetor com seis elementos numéricos inteiros.
+# Calcula e mostra todos os números pares; a quantidade de números pares; todos os números ímpares; a quantidade de números ímpares
 
 vet_inteiros = []
 pares = []

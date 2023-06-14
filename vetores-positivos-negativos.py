@@ -1,5 +1,4 @@
-##Criar um algoritmo que a partir de um vetor de 10 elementos inteiros, crie outros dois vetores que receberão os elementos positivos e negativos e ao final apresente-os. 
-##Não use nenhuma função pronta da linguagem Python.
+# Algoritmo que a crie dois vetores que receberão os elementos positivos e negativos de outro vetor e ao final apresente-os. 
 
 inteiros = []
 negativos = []

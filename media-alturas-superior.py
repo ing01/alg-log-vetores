@@ -1,5 +1,4 @@
-##Faça um algoritmo que calcule e apresente a média de alturas superior a 1,80. Informe também quantos e quais (índice/posição) são os alunos. 
-##Não use nenhuma função pronta da linguagem Python.
+# Algoritmo que calcule e apresente a média de alturas superior a 1,80. Informe também quantos e quais (índice/posição) são os alunos. 
 
 altura = []
 total = 0

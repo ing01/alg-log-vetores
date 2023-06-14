@@ -1,4 +1,4 @@
-##Faça um programa que carregue um vetor com dez nomes e faça uma verificação se um determinado nome esta nesse vetor. Não use nenhuma função pronta da linguagem Python.
+# Algoritmo que carrega um vetor com dez nomes e faça uma verificação se um determinado nome esta nesse vetor.
 
 nomes = []
 for i in range(10):

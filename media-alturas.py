@@ -1,5 +1,6 @@
-##Faça um programa que calcule e apresente a média de alturas de uma sala de 35 alunos. Informe também quantos alunos e quais (índice/posição) são os que 
-##possuem idade superior a 25 anos. Use dois vetores, um para altura e outro para idade. Não use nenhuma função pronta da linguagem Python.
+# Algoritmo que calcula e apresenta a média de alturas de uma sala de 35 alunos. 
+# Informe também quantos alunos e quais (índice/posição) são os que  possuem idade superior a 25 anos. 
+# Usando dois vetores, um para altura e outro para idade. 
 
 vet_altura = []
 vet_idade = []
